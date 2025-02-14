@@ -1,2 +1,7 @@
-# Creative-Agency
-A responsive and visually appealing website created as part of an exercise in the Sheryians Coding School Web Development course. This project demonstrates modern frontend development techniques, including dynamic layouts, interactive elements, and clean design principles tailored for a creative agency.
+## Classroom Project 3 by Sheryians Coding School
+
+This is a modern, fully responsive portfolio website for a design and development agency, built with SCSS and CSS. It features a sleek dark and light mode toggle, along with a stylish hamburger navbar, ensuring a seamless user experience across all devices.
+
+## Live Demo
+
+You can see a live demo of this website (https://creative-agency-portfolio-webwithaman.netlify.app/)
